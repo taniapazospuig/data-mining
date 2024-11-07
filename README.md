@@ -4,7 +4,7 @@ This repository contains my deliverables for the **Data Mining** course, a third
 
 ### About the Course
 
-- **Instructor**: Carlos Castillo  
+- **Instructor**: [Carlos Castillo](https://chato.cl/)  
 - **Institution**: Universitat Pompeu Fabra, Barcelona  
 - **Link to Course Materials**: [Data Mining Course](https://github.com/chatox/data-mining-course)
 
